@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
 
 """
@@ -22,4 +23,14 @@ for ip in ip_list:
     else:
         print("[-]host {} is not alive".format(ip))
 
+=======
+'''
+@Author: k
+@Date: 2020-02-12 21:31:33
+@LastEditTime : 2020-02-12 22:07:39
+@LastEditors  : k
+@Description: packet scanner
+@FilePath: /NightGuard/scanner.py
+'''
+>>>>>>> test git rebase
 
